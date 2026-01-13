@@ -161,15 +161,6 @@ After studying this project, you will understand:
 4. **Delete Task**: User deletes task → Removed from list → Storage updated
 5. **Counter**: User increments/decrements → Value updated and saved
 
-## 📱 Screenshots
-
-The app features:
-- A counter section at the top showing basic state management
-- A progress card displaying task completion percentage
-- An input field with an add button for new tasks
-- A scrollable list of tasks with checkboxes and delete buttons
-- An empty state when no tasks exist
-
 ## 🛠️ Customization
 
 You can easily customize:
